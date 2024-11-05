@@ -1,8 +1,8 @@
 # TiketKu-Repo
 
-Nama : Arya Wiratama
-NIM : 312310224
-Kelas : TI.23.A2
+- Nama : Arya Wiratama
+- NIM : 312310224
+- Kelas : TI.23.A2
 
 ------------------------------------------------
 ## Page Awal
