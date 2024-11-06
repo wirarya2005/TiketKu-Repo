@@ -8,6 +8,11 @@
 - Ini merupakan dokumentasi sebuah aplikasi yang saya buat bernama `TiketKu`. TiketKu merupakan sebuah aplikasi
 mobile untuk memesan tiket transpotasi dengan mudah dan terpercaya.
 
+
+------------------------------------------------
+## StoryBoard
+![story](/screenshoot/str-brd.png)
+
 ------------------------------------------------
 ## Page Awal
 ### Android Studio
