@@ -1,0 +1,35 @@
+<resources>
+    <string name="app_name">TiketKu</string>
+    <string name="tiket">Selamat Datang di TiketKu</string>
+    <string name="underlined_text"><u><b>Login</b></u></string>
+    <string name="daftar_sekarang"><b>Daftar Sekarang Yuk!</b></string>
+    <string name="pass"><b>Password</b></string>
+    <string name="kom_pass"><b>Konfirmasi Password</b></string>
+    <string name="email"><b>Email</b></string>
+    <string name="daftar"><b>DAFTAR</b></string>
+    <string name="login_sekarang"><b>Login Sekarang Yuk!</b></string>
+    <string name="register"><u><b>Register</b></u></string>
+    <string name="LOGIN"><b>LOGIN</b></string>
+    <string name="mau_cari"><b>Mau Cari Apa?</b></string>
+    <string name="nama_user"><b>{Nama User}</b></string>
+    <string name="personal"><b>Personal Information</b></string>
+    <string name="detail_pes"><b>Detail Pesanan</b></string>
+    <string name="pengaturan"><b>Pengaturan</b></string>
+    <string name="voucher"><b>Voucher</b></string>
+    <string name="welcome"><b>Welcome!</b></string>
+    <string name="tiket_pesawat"><b>Tiket Pesawat</b></string>
+    <string name="batik_air"><b>Batik Air</b></string>
+    <string name="garuda_air"><b>Garuda Indonesia</b></string>
+    <string name="lion_air"><b>Lion Air</b></string>
+    <string name="pesan_sekarang"><b>Pesan Sekarang!!</b></string>
+    <string name="pembayaran"><b>Pembayaran</b></string>
+    <string name="harga"><b>Rp.{Harga}</b></string>
+    <string name="kuantitas"><b>Kuantitas</b></string>
+    <string name="tujuan"><b>Tujuan</b></string>
+    <string name="total_harga"><b>Rp. {Total Harga}</b></string>
+    <string name="pilih"><b>Pilih Pembayaran</b></string>
+    <string name="PESAN"><b>Pesan</b></string>
+
+
+
+</resources>
