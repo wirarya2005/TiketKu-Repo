@@ -11,7 +11,8 @@ mobile untuk memesan tiket transpotasi dengan mudah dan terpercaya.
 
 ------------------------------------------------
 ## StoryBoard
-![story](/screenshoot/str-brd.png)
+![story](/screenshoot/str_brd.png)
+------------------------------------------------
 
 ------------------------------------------------
 ## Page Awal
